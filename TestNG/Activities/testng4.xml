@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ExampleSuite" >
+    <test name="Test" >
+        <classes>
+            <class name="TestNGActivities.Activity4_1"/>
+            <class name="TestNGActivities.Activity4_2"/>
+        </classes>
+    </test>
+</suite>
